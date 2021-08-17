@@ -1,4 +1,4 @@
-package git;
+package alltasks.git;
 
 public class GitHubTask {
     public static void main(String[] args) {
