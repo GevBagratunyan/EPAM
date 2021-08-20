@@ -1,1 +1,1 @@
-# EPAM
+# epam-training-git
